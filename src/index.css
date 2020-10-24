@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: 'Courier New', Courier, monospace,
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(1,200,145);
+  background: linear-gradient(90deg, rgba(1,200,145,1) 7%, rgba(49,63,239,0.9727241238292192) 93%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+  cursor: pointer;
+}
